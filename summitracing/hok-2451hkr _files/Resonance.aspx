@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SUM-G9001"},{"itemid":"PTE-H8047"},{"itemid":"SUM-G9006"},{"itemid":"BIG-11104FLT"}]}]}});

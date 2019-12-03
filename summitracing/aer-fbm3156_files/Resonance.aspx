@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"EAR-AT920508ERL"},{"itemid":"AER-FBM2979"},{"itemid":"AER-FBM3155"},{"itemid":"SUM-220832"}]}]}});

@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"GRT-1139"},{"itemid":"GRT-739"},{"itemid":"GRT-1902"},{"itemid":"MOM-RCE35BK1B"}]}]}});

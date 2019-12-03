@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"WVI-3002-1"},{"itemid":"WVI-3005-15-1"},{"itemid":"WVI-3001-15-1"},{"itemid":"WVI-3006-15-1"}]}]}});

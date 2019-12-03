@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"TAY-38180"},{"itemid":"TAY-38580"},{"itemid":"TAY-38780"},{"itemid":"TAY-38510"}]}]}});

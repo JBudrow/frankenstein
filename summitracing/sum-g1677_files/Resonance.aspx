@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"ARP-134-2501"},{"itemid":"MOR-38770"},{"itemid":"MIL-84530"},{"itemid":"ARP-234-2501"}]}]}});

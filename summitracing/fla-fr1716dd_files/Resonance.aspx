@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"FLA-FR1715DD"},{"itemid":"FLA-FR1717DD"},{"itemid":"FLA-FR1789P"},{"itemid":"FLA-FR1733DD"}]}]}});

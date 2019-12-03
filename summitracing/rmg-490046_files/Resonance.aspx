@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"RMG-4900071"},{"itemid":"RMG-GM75373OE"},{"itemid":"SUM-741011"},{"itemid":"RMG-4900411"}]}]}});

@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"OER-6478128"},{"itemid":"PIO-CA-3005"},{"itemid":"OPG-CH20391"},{"itemid":"OER-6478176"}]}]}});

@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"EDL-1203"},{"itemid":"EDL-1221"},{"itemid":"PRO-66815"},{"itemid":"EDL-1223"}]}]}});

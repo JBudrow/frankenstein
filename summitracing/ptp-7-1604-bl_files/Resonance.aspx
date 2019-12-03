@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"ENS-3-1108G"},{"itemid":"PTP-7-1604"},{"itemid":"SUM-7731108"},{"itemid":"ENS-3-1158G"}]}]}});

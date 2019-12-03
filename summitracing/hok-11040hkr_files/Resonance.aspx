@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SUM-G4754"},{"itemid":"HOK-11026HKR"},{"itemid":"SUM-G4756"},{"itemid":"SUM-G4752"}]}]}});

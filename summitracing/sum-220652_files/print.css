@@ -1,0 +1,93 @@
+/* Print Style Sheet */
+
+#page-header .liner {
+	height:90px;	
+}
+
+#page-header .top-bar,
+#page-header .global-nav,
+#page-header .store-search,
+#page-footer,
+.merchandising-block,
+.results-liner .secondary,
+.results-footer-search,
+.footer-email-list,
+.footer-nav,
+.sub-footer .legal img,
+.sub-footer .badges,
+.results-liner .item .item-actions,
+.detail-liner #results .item .item-actions,
+.results-liner .results-top,
+.results-liner .results-bottom,
+.results-liner .total-sort,
+.results-liner .pager,
+.results-liner .item .compare,
+.results-liner .item .supplementary,
+.results-liner .keyword-results,
+.results-liner .results-span,
+.detail-liner .secondary,
+.sharing,
+.back-results,
+.detail-liner #results .item .result-img-text,
+.detail-liner #results .item .supplementary,
+.recently-viewed,
+.checkout-options-box,
+.checkoutOptions,
+.view-edit-cart,
+.estimate .edit-this,
+.continue-links,
+.cart-liner .item-actions a,
+.continue-shopping,
+.cart-liner .secondary,
+.checkout-liner .secondary,
+.account-liner .secondary,
+.content-liner .content-nav,
+.content-liner .secondary,
+.content-liner .detail-media,
+.account-liner .items-wishlist .item-actions,
+.account-liner .results-bottom,
+.account-liner .paging-bar,
+#universal-nav {
+	display:none;	
+}
+
+.results-liner .item a,
+.detail-liner .medialinks li a,
+.detail-liner #results .item a,
+.part-tab-info .title-box a,
+.delivery-methods a,
+.just-added .item-info a,
+.cart-liner .item h2.title a,
+.results-liner .prod-groups .item-group a {
+	color:#000;	
+	text-decoration:none;
+}
+
+.detail-liner .detail-title, 
+.detail-liner .detail-content .box-border,
+.detail-liner .medialinks,
+.detail-liner .part-tab-info,
+.detail-liner .part-tab-info .title-box,
+.interim-cart,
+.cart-liner .cart-wrapper,
+#page-body .results-liner .prod-groups {
+	border:0;	
+}
+
+#page-footer .footer-phone {
+	text-align:left;
+}
+
+.detail-liner .detail-title h2,
+.detail-liner .part-tab-info .title-box {
+	font-weight:bold;	
+}
+
+#page-footer .liner {
+	background:0;	
+}
+
+.content-liner .content-body {
+	width:auto;	
+}
+

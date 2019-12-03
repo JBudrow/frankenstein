@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"TFS-20000-L"},{"itemid":"SUM-210239BLK"},{"itemid":"HLY-20-112"},{"itemid":"HLY-20-121"}]}]}});

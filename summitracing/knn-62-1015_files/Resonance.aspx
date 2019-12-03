@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"KNN-62-1140"},{"itemid":"KNN-62-1020"},{"itemid":"PRO-141-614"},{"itemid":"HAM-1132"}]}]}});

@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SUM-G4982"},{"itemid":"SES-3-60-08-900"},{"itemid":"MEL-MFA350"},{"itemid":"CVS-OFA65"}]}]}});

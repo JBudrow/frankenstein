@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"BMM-80675"},{"itemid":"BMM-80680"},{"itemid":"HUU-3838530"},{"itemid":"BMM-80885"}]}]}});

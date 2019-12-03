@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SSB-A28138"},{"itemid":"RSD-G92020572"},{"itemid":"TFF-2122NB"},{"itemid":"SUM-760195"}]}]}});

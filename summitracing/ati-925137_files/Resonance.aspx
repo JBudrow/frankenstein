@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"EAR-940006ERL"},{"itemid":"FRA-481670-BL"},{"itemid":"RUS-640520"},{"itemid":"SUM-220027"}]}]}});

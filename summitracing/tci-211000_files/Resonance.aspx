@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"TCI-211005"},{"itemid":"TCI-211095"},{"itemid":"TCI-311038"},{"itemid":"TCI-311005"}]}]}});

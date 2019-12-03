@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"BMM-20404"},{"itemid":"BMM-20416"},{"itemid":"SUM-G2699"},{"itemid":"SUM-G2698"}]}]}});

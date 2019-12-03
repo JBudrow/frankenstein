@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SME-8510400NL"},{"itemid":"TFS-8510500"},{"itemid":"SME-8510400"},{"itemid":"MSR-7107"}]}]}});

@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"MTT-6650"},{"itemid":"MTT-6653"},{"itemid":"MTT-6641"},{"itemid":"MTT-6642"}]}]}});

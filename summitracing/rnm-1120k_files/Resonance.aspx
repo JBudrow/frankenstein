@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"MFY-5035611"},{"itemid":"MFY-5035613"},{"itemid":"MRG-6042"},{"itemid":"RNM-1120R"}]}]}});

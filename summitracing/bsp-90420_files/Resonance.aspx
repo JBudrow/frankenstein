@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SUM-371100"},{"itemid":"AFC-80312-45"},{"itemid":"NAL-10108470"},{"itemid":"SUM-371101"}]}]}});

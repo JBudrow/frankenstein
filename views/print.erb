@@ -1,0 +1,59 @@
+<h1 class='display-4'>1992 Cadillac Eldorado</h1>
+<p class='container' style='margin:revert;'>
+  <b>(Project car for sale)</b> GM ZZ4 crate engine, Edelbrock T50 carb, HI torque starter, Headman headers, B&M 2400 RPM stall converter,
+  TCI TH400 trans street fighter, B&M shifter, Richmond 3:73's, Auburn limited slip diff., Mosler axles, 
+  SSB booster and master cylinder, front and rear calipers, pads and rotors, Heidts Mustang II front-end and four link rear,
+  All sits on air ride tech air bags and shocks. 
+</p>
+<b>NOTES</b>
+<ul>
+<li>Serious inquiries only!!!</li>
+<li>Parts car</li>
+<li>Please refer to the previous website to contact owner</li>
+<li>All parts purchased by Summit Racing®</li>
+<li>Refer part SKU's to <a href='https://www.summitracing.com'> https://www.summitracing.com</a> for additional information</li>
+</ul>
+<br>
+
+<div class='container'>
+  <img src='/img/2002_cadillac-eldorado1.jpg' style='max-width:10em;'>
+  <img src='/img/2002_cadillac-eldorado.jpg' style='max-width:10em;'>
+  <img src='/img/2002_cadillac-eldorado2.jpg' style='max-width:10em;'>
+  <img src='/img/2002_cadillac-eldorado_int1.jpg' style='max-width:10em;'>
+</div>
+<br>
+
+<div class='container'>
+  <% @departments.each do |department, entries| %>
+  <div id=<%= department %> class='section scrollspy'>
+    <h2><%= department %></h2>
+    <table class='highlight'>
+      <thead>
+        <tr style='text-align:left;'>
+          <th></th>
+          <th>PART</th>
+          <th>SKU</th>
+          <th>CATEGORY</th>
+          <th>PRICE</th>
+          <th>DESCRIPTION</th>
+          <th>OVERALL DESCRIPTION</th>
+        </tr>
+      </thead>
+      <% entries.each do |entry| %>
+      <tbody>
+        <tr>
+          <td><img src='/img/<%= entry['ml_img'] %>' style='max-height:36px;max-width:36px;filter:grayscale(1);'></td>
+          <td style='font-size:10px;'><%= entry['title'] %></td>
+          <td style='font-size:10px;'><%= entry['sku'] %></td>
+          <td style='font-size:10px;'><%= entry['category'] %></td>
+          <td style='font-size:10px;'><%= entry['price'] %></td>
+          <td style='font-size:10px'><%= entry['description'] %></td>
+          <td style='font-size:10px;'><%= entry['overview_description'] %></td>
+        </tr>
+      </tbody>
+      <% end %>
+    </table>
+  </div>
+  <br>
+  <% end %>
+</div>

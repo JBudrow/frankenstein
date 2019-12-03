@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"ARP-445-0901"},{"itemid":"ARP-129-0901"},{"itemid":"ARP-134-0901"},{"itemid":"ICB-551687"}]}]}});

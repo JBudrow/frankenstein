@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Frankenstein</title>
+  <link rel='shortcut icon' href='img/cadillac_emblem.jpg'>
+	<link rel='icon' sizes='16x16 32x32 64x64' href='img/cadillac_emblem.jpg'>
+
+  <!--Responsive Meta Tag-->
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+  <!--Import Google Icon Font-->
+  <link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'>
+  <!--Import materialize.css-->
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
+  
+  <!--Import jQuery Library-->
+  <script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+  <!--Import materialize.js-->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js'></script>
+</head>
+<body>
+  <img src='img/cadillac_emblem.jpg' style='position:absolute;left:85px;height:75px;z-index:1' />
+  <img src='img/frankenstein.png' style='position:absolute;left:95px;height:55px;top:115px;z-index:1' />
+  <div class='jumbotron jumbotron-fluid'>
+    <div class='container'>
+      <h1 class='display-4'>1992 Cadillac Eldorado</h1>
+      <span><h4 style='color:lightgrey;'>aka FRANKENSTEIN</h4></span>
+      <a href='/print' class='waves-effect waves-light btn btn-small blue lighten-3'><i class='material-icons left'>print</i>PRINT</a>
+      <br>
+      <p class='container' style='margin:revert;'>
+        <b>(Project car for sale)</b> GM ZZ4 crate engine, Edelbrock T50 carb, HI torque starter, Headman headers, B&M 2400 RPM stall converter,
+        TCI TH400 trans street fighter, B&M shifter, Richmond 3:73's, Auburn limited slip diff., Mosler axles, 
+        SSB booster and master cylinder, front and rear calipers, pads and rotors, Heidts Mustang II front-end and four link rear,
+        All sits on air ride tech air bags and shocks. 
+      </p>
+      <b>NOTES</b>
+      <ul>
+      <li>Serious inquiries only!!!</li>
+      <li>Parts car</li>
+      <li>Please refer to the previous website to contact owner</li>
+      <li>All parts purchased by Summit Racing®</li>
+      <li>Refer part SKU's to <a href='https://www.summitracing.com'> https://www.summitracing.com</a> for additional information</li>
+      </ul>
+    </div>
+    <br>
+
+  <!-- dummy images -->
+  <div class='container'>
+    <img src='/img/2002_cadillac-eldorado1.jpg' style='max-width:10em;'>
+    <img src='/img/2002_cadillac-eldorado.jpg' style='max-width:10em;'>
+    <img src='/img/2002_cadillac-eldorado2.jpg' style='max-width:10em;'>
+    <img src='/img/2002_cadillac-eldorado_int1.jpg' style='max-width:10em;'>
+  </div>
+
+	<div class='row' style='padding-top:25px;'>
+    <div class='col s12 m9 l10'>
+      <% @departments.each do |department, entries| %>
+      <div id=<%= department %> class='section scrollspy'>
+        <div class='card-panel'>
+          <h5><%= department %></h5>
+          <table class='highlight'>
+            <thead>
+              <tr>
+                <td></td>
+                <td>PART</td>
+                <td>SKU</td>
+                <td>CATEGORY</td>
+                <td>PRICE</td>
+                <td>DESCRIPTION</td>
+                <td>OVERALL DESCRIPTION</td>
+              </tr>
+            </thead>
+            <% entries.each do |entry| %>
+            <tbody>
+              <tr>
+                <td><img src='/img/<%= entry['ml_img'] %>' style='max-height:36px;max-width:36px;'></td>
+                <td style='font-size:10px;'><%= entry['title'] %></td>
+                <td style='font-size:10px;'><%= entry['sku'] %></td>
+                <td style='font-size:10px;'><%= entry['category'] %></td>
+                <td style='font-size:10px;'><%= entry['price'] %></td>
+                <td style='font-size:10px;'><%= entry['description'] %></td>
+                <td style='font-size:10px;'><%= entry['overview_description'] %></td>
+              </tr>
+            </tbody>
+            <% end %>
+          </table>
+        </div>
+      </div>
+      <% end %>
+    </div>
+
+    <div class='col hide-on-small-only m3 l2'>
+      <ul class='section table-of-contents right-align' style='position:fixed;top:100px;'>
+      <% ['Air-Fuel-Delivery', 'Brake-Systems', 'Chassis-Suspension',
+          'Cooling-Heating', 'Engines-Components', 'Exhaust', 'Fittings-Hoses',
+          'Gaskets-Seals', 'Gauges-Accessories', 'Ignitions-Electrical', 
+          'Interior-Accessories', 'Paints-Finishing', 'Transmission-Drivetrain',
+          'Wheels-Tires'].each do |dept| %>
+        <li class='left-align'>
+          <a href=<%= '#' + dept %> style='font-size:10px;'><%= dept %></a>
+        </li>
+      <% end %>
+      </ul>
+    </div>
+  </div>
+  
+
+<script type='text/javascript'>
+	$(document).ready(function(){
+	  $('.scrollspy').scrollSpy();
+  });
+</script>
+</body>
+</html>

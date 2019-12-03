@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"LOK-TC-1000HT36"},{"itemid":"LOK-TC-1000U"},{"itemid":"SUM-200041"},{"itemid":"LOK-XTC-1000HT"}]}]}});

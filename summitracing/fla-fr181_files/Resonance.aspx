@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"AAF-ALL52132"},{"itemid":"BRG-700000"},{"itemid":"BRG-670000"},{"itemid":"KYS-100-189"}]}]}});

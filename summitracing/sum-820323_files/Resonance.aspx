@@ -1,0 +1,1 @@
+certonaRecommendations({"resonance":{"schemes":[{"scheme":"product1_rr","explanation":"","display":"yes","items":[{"itemid":"SUM-829105"},{"itemid":"PWM-9612"},{"itemid":"PWM-9000"},{"itemid":"PWM-9500"}]}]}});
