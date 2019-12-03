@@ -4,3 +4,8 @@ source 'https://rubygems.org'
 gem 'slim'
 # A runtime developer console and IRB alternative with powerful introspection capabilities
 gem 'pry'
+
+group :production do
+  # A Ruby/Rack web server built for concurrency
+  gem 'puma'
+end 
