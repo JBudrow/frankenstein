@@ -9,6 +9,7 @@ parts:
     url: "/parts/fla-fr1810"
     s_img: fla-fr1810_s.jpg
     ml_img: fla-fr1810_ml.jpg
+    xl_img: fla-fr1810_xl.jpg
     description: Support Bearing, Steering Shaft, 3/4 in. Bore, Forged Steel, Zinc
       Plated, Each
     overview_description: Whenever a steering system contains three joints, a double
@@ -24,6 +25,7 @@ parts:
     url: "/parts/bsp-90420"
     s_img: bsp-90420_s.jpg
     ml_img: bsp-90420_ml.jpg
+    xl_img: bsp-90420_xl.jpg
     description: Water Neck, Billet Aluminum, Polished, 45 Degree, Chevy, Big Block,
       Small Block, Each
     overview_description: Billet Specialties thermostat housings not only look good,
@@ -40,6 +42,7 @@ parts:
     url: "/parts/ear-9892086erl"
     s_img: ear-9892086erl_s.jpg
     ml_img: ear-9892086erl_ml.jpg
+    xl_img: ear-9892086erl_xl.jpg
     description: Fitting, Flare Reducer, Female -8 AN to Male -6 AN, Aluminum, Blue
       Anodized, Each
     overview_description: 'Earl''s Performance reducers have one job: connect different
@@ -57,6 +60,7 @@ parts:
     url: "/parts/fla-fr1716dd"
     s_img: fla-fr1716dd_s.jpg
     ml_img: fla-fr1716dd_ml.jpg
+    xl_img: fla-fr1716dd_xl.jpg
     description: Steering Universal Joint, Steel, Nickel Plated, 3/4 in. DD, 3/4 in.
       DD, Each
     overview_description: Flaming River Billet-Joint steering universal joints are
@@ -74,6 +78,7 @@ parts:
     url: "/parts/sum-g1677"
     s_img: sum-g1677_s.jpg
     ml_img: sum-g1677_ml.jpg
+    xl_img: sum-g1677_xl.jpg
     description: Harmonic Balancer Bolt, Steel, Gold Iridite, External Hex, Chevy,
       Small Block, Each
     overview_description: These heavy-duty Summit® balancer bolt kits are the best
@@ -91,6 +96,7 @@ parts:
     url: "/parts/tci-211000"
     s_img: tci-211000_s.jpg
     ml_img: tci-211000_ml.jpg
+    xl_img: tci-211000_xl.jpg
     description: Automatic Transmission, Forward Shift Pattern, Automatic, Manual Valve
       Body, Chevy, TH400, Each
     overview_description: TCI StreetFighter transmissions are durable enough to withstand
@@ -111,6 +117,7 @@ parts:
     url: "/parts/wil-260-8419"
     s_img: wil-260-8419_s.jpg
     ml_img: wil-260-8419_ml.jpg
+    xl_img: wil-260-8419_xl.jpg
     description: Brake Proportioning Valve, Knob Adjustment, 1/8 in. NPT, Single Inlet/Outlet,
       Aluminum, Natural, Each
     overview_description: Wilwood brake proportioning valves are adjustable between
@@ -127,6 +134,7 @@ parts:
     url: "/parts/wvi-3002-1"
     s_img: wvi-3002-1_s.jpg
     ml_img: wvi-3002-1_ml.jpg
+    xl_img: wvi-3002-1_xl.jpg
     description: Wheel Trim Ring, Snap-On, 15 in. Dia., Polished, Stainless Steel,
       Fits 8 in. Wide Corvette Steel Rallye Wheels
     overview_description: Don't settle for second-rate wheel accessories for your musclecar.
@@ -141,6 +149,7 @@ parts:
     url: "/parts/msd-8411"
     s_img: msd-8411_s.jpg
     ml_img: msd-8411_ml.jpg
+    xl_img: msd-8411_xl.jpg
     description: Distributor Cap, Male/HEI-Style, Red, Clamp-Down, GM, V8, Each
     overview_description: Ensure that you have the finest distributor cap available
       by using one of these MSD Extra Duty distributor caps. They're designed with performance
@@ -155,6 +164,7 @@ parts:
     url: "/parts/sum-230603"
     s_img: sum-230603_s.jpg
     ml_img: sum-230603_ml.jpg
+    xl_img: sum-230603_xl.jpg
     description: Hose, Braided Stainless Steel, -6 AN, 3 ft. Length, Each
     overview_description: When our guys found this high-quality hose at such a good
       price, we thought they were trying to put one over on us. Luckily for you, this
@@ -173,6 +183,7 @@ parts:
     url: "/parts/sum-230101"
     s_img: sum-230101_s.jpg
     ml_img: sum-230101_ml.jpg
+    xl_img: sum-230101_xl.jpg
     description: Fuel Filter, Inline Mount, Aluminum, Blue, 40 Microns, -6 AN Male
       Inlet/Outlet, Each
     overview_description: Summit Racing® full flow fuel filters are designed for use
@@ -191,6 +202,7 @@ parts:
     url: "/parts/sum-dsep-5551l"
     s_img: sum-dsep-5551_s.jpg
     ml_img: sum-dsep-5551_ml.jpg
+    xl_img: sum-dsep-5551_xl.jpg
     description: Brake Rotor, Cross-Drilled, Slotted, Iron, Natural, Driver Side, Rear,
       Chevy, Pontiac, Camaro, Firebird, Each
     overview_description: Summit® Extreme Performance cross-drilled and slotted brake
@@ -211,6 +223,7 @@ parts:
     url: "/parts/ptp-7-1604-bl"
     s_img: ptp-7-1604-bl_s.jpg
     ml_img: ptp-7-1604-bl_ml.jpg
+    xl_img: ptp-7-1604-bl_xl.jpg
     description: Transmission Mount, Black, Polyurethane, GM, Each
     overview_description: Prothane transmission mounts take the sloppiness out of your
       original rubber-mounted drivetrain. They're designed to control torque, eliminate
@@ -227,6 +240,7 @@ parts:
     url: "/parts/sum-g1400"
     s_img: sum-g1400_s.jpg
     ml_img: sum-g1400_ml.jpg
+    xl_img: sum-g1400_xl.jpg
     description: Carburetor Spacer, Aluminum, 1 in. Thick, Open, Square Bore, Each
     overview_description: Summit Racing® aluminum carburetor spacers offer many advantages.
       They extend the length of the intake mixture column to improve air/fuel distribution
@@ -243,6 +257,7 @@ parts:
     url: "/parts/mtt-6654"
     s_img: mtt-6654_s.jpg
     ml_img: mtt-6654_ml.jpg
+    xl_img: mtt-6654_xl.jpg
     description: Tire, Sportsman S/R, LT 26x12R15, Radial, Blackwall, Each
     overview_description: Aggressive tires for your street rod or musclecar! Mickey
       Thompson Sportsman S/R tires are a new spin on the famous Mickey Thompson Sportsman
@@ -265,6 +280,7 @@ parts:
     url: "/parts/brg-450024"
     s_img: brg-450024_s.jpg
     ml_img: brg-450024_ml.jpg
+    xl_img: brg-450024_xl.jpg
     description: Steering Shaft, Steel Alloy, Universal, Each
     overview_description: These Borgeson Universal telescoping steering shafts can
       be used in a variety of applications and will make the installation and removal
@@ -281,6 +297,7 @@ parts:
     url: "/parts/msd-32813"
     s_img: msd-32813_s.jpg
     ml_img: msd-32813_ml.jpg
+    xl_img: msd-32813_xl.jpg
     description: Spark Plug Wires, Super Conductor, Spiral, 8.5mm, Black, Multi-Angle
       Boots, Chevy, LS1/LS2/LS4/LS6/LS7, Set
     overview_description: MSD 8.5mm Super Conductor spark plug wire sets feature a
@@ -305,6 +322,7 @@ parts:
     url: "/parts/sum-g1882"
     s_img: sum-g1882_s.jpg
     ml_img: sum-g1882_ml.jpg
+    xl_img: sum-g1882_xl.jpg
     description: Hose Mount, Clamp, Cushioned, Steel, Cadmium Plated, 500 in. O.D.
       Hose, Set of 10
     overview_description: Use our insulated clamps the next time you need to run a
@@ -321,6 +339,7 @@ parts:
     url: "/parts/via-80237"
     s_img: via-80237_s.jpg
     ml_img: via-80237_ml.jpg
+    xl_img: via-80237_xl.jpg
     description: Relay, Starter/General Use, 30 Amp, Single Pole, Each
     overview_description: VPA SPDT relays with wiring sockets are commonly used in
       powered or electric vehicle accessory installations. These relay types generally
@@ -338,6 +357,7 @@ parts:
     url: "/parts/sum-220686"
     s_img: sum-220686_s.jpg
     ml_img: sum-220686_ml.jpg
+    xl_img: sum-220686_xl.jpg
     description: Fitting, Hose End, 45 Degree, -6 AN Hose to Female -6 AN, Aluminum,
       Red/Blue Anodized, Each
     overview_description: Summit Racing® hose ends are just as good as the expensive
@@ -353,6 +373,7 @@ parts:
     url: "/parts/sum-220690"
     s_img: sum-220690_s.jpg
     ml_img: sum-220690_ml.jpg
+    xl_img: sum-220690_xl.jpg
     description: Fitting, Hose End, Straight, -6 AN Hose to Female -6 AN, Aluminum,
       Red/Blue Anodized, Each
     overview_description: Summit Racing® hose ends are just as good as the expensive
@@ -368,6 +389,7 @@ parts:
     url: "/parts/tfs-20000"
     s_img: tfs-20000_s.jpg
     ml_img: tfs-20000_ml.jpg
+    xl_img: tfs-20000_xl.jpg
     description: Throttle Cable Bracket, Aluminum, Black Anodized, Holley, 4150/4160,
       Each
     overview_description: Trick Flow® makes your carb installation look clean and professional.
@@ -384,6 +406,7 @@ parts:
     url: "/parts/arp-130-1602"
     s_img: arp-130-1602_s.jpg
     ml_img: arp-130-1602_ml.jpg
+    xl_img: arp-130-1602_xl.jpg
     description: Fuel Pump Bolts, Chromoly, Black Oxide, Hex, Chevy, Big Block, Small
       Block, Kit
     overview_description: ARP durable fuel pump bolts are rated at 170,000 psi, which
@@ -399,6 +422,7 @@ parts:
     url: "/parts/aer-fbm3156"
     s_img: aer-fbm3156_s.jpg
     ml_img: aer-fbm3156_ml.jpg
+    xl_img: aer-fbm3156_xl.jpg
     description: Fitting, Coupler, 90 Degree, -8 AN Female to -8 AN Male, Aluminum,
       Red, Each
     overview_description: Straight, 45 degree, 90 degree, AN, and NPT--once you see
@@ -414,6 +438,7 @@ parts:
     url: "/parts/rmg-4900461"
     s_img: rmg-4900461_s.jpg
     ml_img: rmg-4900461_ml.jpg
+    xl_img: rmg-4900461_xl.jpg
     description: Gear, Ring and Pinion, 3.73:1 Ratio, GM, 7.5 in./7.625 in., 10-Bolt,
       3 Series, Set
     overview_description: Richmond Gear is the leading manufacturer of professional-quality,
@@ -432,6 +457,7 @@ parts:
     url: "/parts/the-14005"
     s_img: the-14005_s.jpg
     ml_img: the-14005_ml.jpg
+    xl_img: the-14005_xl.jpg    
     description: Heat Protection, Thermo-Sleeve, Fits 1/4 in. to 1/2 in. Hoses/Wires,
       3 ft. Length, Each
     overview_description: Using Thermo-Tec Thermo-Sleeve will provide your wires and
@@ -448,6 +474,7 @@ parts:
     url: "/parts/atm-2263"
     s_img: atm-2263_s.jpg
     ml_img: atm-2263_ml.jpg
+    xl_img: atm-2263_xl.jpg
     description: Temperature Adapter, Male 3/8 in. NPT to Female 5/8-18 in., Brass,
       Natural, Each
     overview_description: These AutoMeter temperature adapters allow you to easily
@@ -461,6 +488,7 @@ parts:
     url: "/parts/tci-880013"
     s_img: tci-880013_s.jpg
     ml_img: tci-880013_ml.jpg
+    xl_img: tci-880013_xl.jpg
     description: Speedometer Gear, Driven, 44-Tooth, Gray, GM Turbo-Hydromatics, Each
     overview_description: Are you making a change in tire size or gears? TCI offers
       the most popular speedometer gears, like GM drive gears, to calibrate your speed.
@@ -476,6 +504,7 @@ parts:
     url: "/parts/sme-2015"
     s_img: sme-2015_s.jpg
     ml_img: sme-2015_ml.jpg
+    xl_img: sme-2015_xl.jpg
     description: Adapter, Oil Filter, Non-Bypass, Aluminum, Black Anodized, 13/16-16
       in. Thread, Each
     overview_description: These spin-on oil filter mounts come without the high-pressure
@@ -491,6 +520,7 @@ parts:
     url: "/parts/sum-87075bk"
     s_img: sum-87075bk_s.jpg
     ml_img: sum-87075bk_ml.jpg
+    xl_img: sum-87075bk_xl.jpg
     description: Electrical Wire, 10-Gauge, 75 ft. Long, Black, Each
     overview_description: Got some wiring to do? Let us supply the wire. Designed for
       chassis wiring jobs, our Summit® accessory wire isn't run-of-the-mill stuff like
@@ -508,6 +538,7 @@ parts:
     url: "/parts/mrg-1514"
     s_img: mrg-1514_s.jpg
     ml_img: mrg-1514_ml.jpg
+    xl_img: mrg-1514_xl.jpg
     description: Mounting Plate, Steel, Chrome, Fuel Pump, Chevy, Small Block, Each
     overview_description: These fuel pump mounting plates mount behind your mechanical
       fuel pump for carbureted small block Chevy V8 and 90 degree V6 engines. They add
@@ -522,6 +553,7 @@ parts:
     url: "/parts/sum-dsep-5551r"
     s_img: sum-dsep-5551_s.jpg
     ml_img: sum-dsep-5551_ml.jpg
+    xl_img: sum-dsep-5551_xl.jpg
     description: Brake Rotor, Cross-Drilled, Slotted, Iron, Natural, Passenger Side,
       Rear, Chevy, Pontiac, Camaro/Firebird, Each
     overview_description: Summit® Extreme Performance cross-drilled and slotted brake
@@ -542,6 +574,7 @@ parts:
     url: "/parts/sum-220648"
     s_img: sum-220648_s.jpg
     ml_img: sum-220648_ml.jpg
+    xl_img: sum-220648_xl.jpg
     description: Fitting, Adapter, Straight, Male -6 AN to Male 3/8 in. NPT, Aluminum,
       Blue Anodized, Each
     overview_description: Our Summit® AN to NPT adapter fittings will make almost any
@@ -557,6 +590,7 @@ parts:
     url: "/parts/edl-1208"
     s_img: edl-1208_s.jpg
     ml_img: edl-1208_ml.jpg
+    xl_img: edl-1208_xl.jpg
     description: Air Filter Assembly, Pro-Flo, 10 in. Diameter, Round, Steel, Chrome,
       2 in. Filter Height, Each
     overview_description: Edelbrock Pro-Flo Series air cleaners are the perfect solution
@@ -571,6 +605,7 @@ parts:
     url: "/parts/wlk-33240"
     s_img: wlk-33240_s.jpg
     ml_img: wlk-33240_ml.jpg
+    xl_img: wlk-33240_xl.jpg
     description: Exhaust Clamp, Band-Style, Butt Joint, Stainless Steel, 2.500 in.
       Diameter, Each
     overview_description: These Walker band-style exhaust clamps give you a 360 degree
@@ -587,6 +622,7 @@ parts:
     url: "/parts/tay-38090"
     s_img: tay-38090_s.jpg
     ml_img: tay-38090_ml.jpg
+    xl_img: tay-38090_xl.jpg
     description: Convoluted Tubing, Plastic, Black, 1/4 in. Diameter, 10 ft. Long,
       Each
     overview_description: Taylor's convoluted tubing is made from flexible plastic
@@ -602,6 +638,7 @@ parts:
     url: "/parts/bmm-80690/"
     s_img: bmm-80690_s.jpg
     ml_img: bmm-80690_ml.jpg
+    xl_img: bmm-80690_xl.jpg
     description: Automatic Shifter, Megashifter, Chevy, Mopar, Ford, Lincoln, Mercury,
       Each
     overview_description: Cable-operated B&M Megashifters have reliable ratchet action
@@ -618,6 +655,7 @@ parts:
     url: "/parts/sum-390148-b"
     s_img: sum-390148-b_s.jpg
     ml_img: sum-390148-b_ml.jpg
+    xl_img: sum-390148-b_xl.jpg
     description: Radiator Hose, Blue Stainless Steel Hose, Blue Powdercoated Aluminum
       Ends, 48 in. Length, Kit
     overview_description: Our Summit® stainless steel flexible hoses bend and cut easily,
@@ -633,6 +671,7 @@ parts:
     url: "/parts/ati-925137"
     s_img: ati-925137_s.jpg
     ml_img: ati-925137_ml.jpg
+    xl_img: ati-925137_xl.jpg
     description: Fitting, Transmission Line into Case Adapter, -6 AN Male to 1/4 in.
       NPSM Male, Aluminum, Black Anodized, Pair
     overview_description: ATI has filled a needed void with their 1/4 in. NPSM (straight)
@@ -651,6 +690,7 @@ parts:
     url: "/parts/sum-220652"
     s_img: sum-220652_s.jpg
     ml_img: sum-220652_ml.jpg
+    xl_img: sum-220652_xl.jpg
     description: Fitting, Adapter, 90 Degree, Male -6 AN to Male 3/8 in. NPT, Aluminum,
       Blue Anodized, Each
     overview_description: Our Summit® AN to NPT adapter fittings will make almost any
@@ -666,6 +706,7 @@ parts:
     url: "/parts/atm-2604"
     s_img: atm-2604_s.jpg
     ml_img: atm-2604_ml.jpg
+    xl_img: atm-2604_xl.jpg
     description: Gauge, Z-Series, Oil Pressure, 0-100 psi, 2 1/16 in., Analog, Mechanical,
       Each
     overview_description: AutoMeter Z-Series analog gauges have a black face with white
@@ -680,6 +721,7 @@ parts:
     url: "/parts/hok-11040hkr"
     s_img: hok-11040hkr_s.jpg
     ml_img: hok-11040hkr_ml.jpg
+    xl_img: hok-11040hkr_xl.jpg
     description: Header Reducers, 3-Bolt Flange, 3.00 in. Inlet, 2.50 in. Outlet, Steel,
       Painted, Pair
     overview_description: Hooker reducers adapt header flanges to exhaust systems.
@@ -694,6 +736,7 @@ parts:
     url: "/parts/nal-12497697"
     s_img: nal-12497697_s.jpg
     ml_img: nal-12497697_ml.jpg
+    xl_img: nal-12497697_xl.jpg
     description: Pulley Kit, Serpentine, Steel, Black, Chevy, Small Block, Kit
     overview_description: These Chevrolet Performance deluxe serpentine belt drive
       kits include the following parts for installation.Kits include:* Belt (water pump,
@@ -709,6 +752,7 @@ parts:
     url: "/parts/rnm-1120k"
     s_img: rnm-1120k_s.jpg
     ml_img: rnm-1120k_ml.jpg
+    xl_img: rnm-1120k_xl.jpg
     description: Ignition Wire Loom/Separator, Vertical, Aluminum, Polymer, Black/Black,
       7-9mm, Chevy, 5.0/5.7L, Centerbolt
     overview_description: R&M billet wire looms use injection-molded insulators anchored
@@ -728,6 +772,7 @@ parts:
     url: "/parts/rus-632080"
     s_img: rus-632080_s.jpg
     ml_img: rus-632080_ml.jpg
+    xl_img: rus-632080_xl.jpg
     description: Hose, ProFlex, Braided Stainless Steel, -6 AN, 15 ft. Length, Each
     overview_description: Russell's ProFlex hose series represents the ultimate in
       mandrel-produced, stainless steel, wire braid hose. It has a unique CPE inner
@@ -744,6 +789,7 @@ parts:
     url: "/parts/edl-8134"
     s_img: edl-8134_s.jpg
     ml_img: edl-8134_ml.jpg
+    xl_img: edl-8134_xl.jpg
     description: Fuel Line, Chrome, Steel, Thunder and Performer Series, Blue Aluminum
       Filter, -6 AN Male Inlet, Kit
     overview_description: Designed to fit all Edelbrock square-bore carbs, Edelbrock
@@ -760,6 +806,7 @@ parts:
     url: "/parts/sum-230610"
     s_img: sum-230610_s.jpg
     ml_img: sum-230610_ml.jpg
+    xl_img: sum-230610_xl.jpg
     description: Hose, Braided Stainless Steel, -6 AN, 10 ft. Length, Each
     overview_description: When our guys found this high-quality hose at such a good
       price, we thought they were trying to put one over on us. Luckily for you, this
@@ -778,6 +825,7 @@ parts:
     url: "/parts/atm-2607"
     s_img: atm-2607_s.jpg
     ml_img: atm-2607_ml.jpg
+    xl_img: atm-2607_xl.jpg
     description: Gauge, Z-Series, Water Temperature, 120-240 Degrees F, 2 1/16 in.,
       Analog, Mechanical, Each
     overview_description: AutoMeter Z-Series analog gauges have a black face with white
@@ -792,6 +840,7 @@ parts:
     url: "/parts/sum-87075r"
     s_img: sum-87075r_s.jpg
     ml_img: sum-87075r_ml.jpg
+    xl_img: sum-87075r_xl.jpg
     description: Electrical Wire, 10-Gauge, 75 ft. Long, Red, Each
     overview_description: Got some wiring to do? Let us supply the wire. Designed for
       chassis wiring jobs, our Summit® accessory wire isn't run-of-the-mill stuff like
@@ -809,6 +858,7 @@ parts:
     url: "/parts/mpe-10416"
     s_img: mpe-10416_s.jpg
     ml_img: mpe-10416_ml.jpg
+    xl_img: mpe-10416_xl.jpg
     description: Muffler, 2.50 in. Inlet/2.50 in. Outlet, Stainless Steel, Natural,
       Each
     overview_description: MagnaFlow performance mufflers are designed to provide your
@@ -828,6 +878,7 @@ parts:
     url: "/parts/tfs-8510400"
     s_img: tfs-8510400_s.jpg
     ml_img: tfs-8510400_ml.jpg
+    xl_img: tfs-8510400_xl.jpg
     description: Differential Cover, Bearing Cap Supports, Aluminum, GM 7.5"/7.625"
       Rear Axle, Each
     overview_description: Trick Flow® heavy-duty differential covers feature cast aluminum
@@ -843,6 +894,7 @@ parts:
     url: "/parts/arp-134-8701/"
     s_img: arp-134-8701_s.jpg
     ml_img: arp-134-8701_ml.jpg
+    xl_img: arp-134-8701_xl.jpg
     description: Fuel Pump Pushrod, Chromoly, Chevy, Small Block V8, 3.8, 4.3L V6,
       Each
     overview_description: ARP fuel pump pushrods are made durable to provide required
@@ -858,6 +910,7 @@ parts:
     url: "/parts/pwm-607"
     s_img: pwm-607_s.jpg
     ml_img: pwm-607_ml.jpg
+    xl_img: pwm-607_xl.jpg
     description: Starter Shim Kit, Steel, Chevy, Big/Small Block, Inline Pattern, Kit
     overview_description: These Powermaster starter bolt kits are a must when installing
       a starter. They include two shims that you may need when installing your new starter
@@ -872,6 +925,7 @@ parts:
     url: "/parts/sum-220786-b"
     s_img: sum-220786-b_s.jpg
     ml_img: sum-220786-b_ml.jpg
+    xl_img: sum-220786-b_ml.jpg
     description: Hose, Twist-Tite, Rubber, Black, -8 AN, 10 ft. Length, Each
     overview_description: Our Summit® Twist-Tite hose was designed for reduced weight,
       increased flexibility, and, best of all, affordability. The hose features an elastomer
@@ -888,6 +942,7 @@ parts:
     url: "/parts/fel-6579/"
     s_img: fel-6579_s.jpg
     ml_img: fel-6579_ml.jpg
+    xl_img: fel-6579_xl.jpg
     description: Gasket, Fuel Pump, Composite, Chevy/Ford, Each
     overview_description: Fel-Pro fuel pump gaskets are designed to replace your factory
       gaskets. They are made from a composite material to protect against leaks.
@@ -900,6 +955,7 @@ parts:
     url: "/parts/nal-24502609"
     s_img: nal-24502609_s.jpg
     ml_img: nal-24502609_ml.jpg
+    xl_img: nal-24502609_xl.jpg
     description: Engine Assembly, Crate Engine, Forged Crank, Chevy, ZZ4 350, 355 hp,
       Aluminum Heads, Each
     overview_description: ''
@@ -912,6 +968,7 @@ parts:
     url: "/parts/sum-g3881"
     s_img: sum-g3881_s.jpg
     ml_img: sum-g3881_ml.jpg
+    xl_img: sum-g3881_xl.jpg
     description: Transmission Dipstick, Steel, Chrome, TH400, Each
     overview_description: These Summit® transmission dipsticks and tubes will transform
       the look of any engine compartment. They are manufactured from quality steel,
@@ -925,6 +982,7 @@ parts:
     url: "/parts/lok-srk-4000"
     s_img: lok-srk-4000_s.jpg
     ml_img: lok-srk-4000_ml.jpg
+    xl_img: lok-srk-4000_xl.jpg
     description: Throttle Cable Bracket, Stainless Steel, Polished, Holley, Edelbrock,
       Carter, Rochester, Kit
     overview_description: These Lokar stainless throttle cable brackets mount to the
@@ -939,6 +997,7 @@ parts:
     url: "/parts/sum-820323"
     s_img: sum-820323_s.jpg
     ml_img: sum-820323_ml.jpg
+    xl_img: sum-820323_xl.jpg
     description: Starter, Mini, Inline, Chevy, Each
     overview_description: Summit Racing® Protorque Starters are 100 percent new! Our
       lightweight Nippondenso-type starters offer a 4.0:1 gear-reduction ratio and a
@@ -958,6 +1017,7 @@ parts:
     url: "/parts/lok-sp-1500u"
     s_img: lok-sp-1500u_s.jpg
     ml_img: lok-sp-1500u_ml.jpg
+    xl_img: lok-sp-1500u_xl.jpg
     description: Speedometer Cable, GM, TH350/TH400/700R4, Polyethylene Jacket, Black,
       Each
     overview_description: These premium Speedometer cable kits from Lokar feature PTFE-lined
@@ -974,6 +1034,7 @@ parts:
     url: "/parts/grt-5196-1"
     s_img: grt-5196-1_s.jpg
     ml_img: grt-5196-1_ml.jpg
+    xl_img: grt-5196-1_xl.jpg
     description: Steering Wheel Installation Kit, 5-Bolt Mount, Polished, Aluminum,
       AMC, GM, Mopar, Jeep, Kit
     overview_description: Grant impressive looking billet style installation kits feature
@@ -990,6 +1051,7 @@ parts:
     url: "/parts/sum-380152"
     s_img: sum-380152_s.jpg
     ml_img: sum-380152_ml.jpg
+    xl_img: sum-380152_xl.jpg
     description: Radiator Cap, Aluminum, Blue Anodized, Round, 16 psi, Each
     overview_description: These recovery-style radiator caps from Summit® are designed
       to fit most radiators. Their heavy-duty design is made to handle the pressures
@@ -1003,6 +1065,7 @@ parts:
     url: "/parts/rus-641291"
     s_img: rus-641291_s.jpg
     ml_img: rus-641291_ml.jpg
+    xl_img: rus-641291_xl.jpg
     description: Fittings, Brake, Steel, EnduraShine, Male -3 AN to Female 3/8 in.x
       24-Thread, Pair
     overview_description: Russell brake adapter fittings are manufactured from quality
@@ -1017,6 +1080,7 @@ parts:
     url: "/parts/sum-g7821"
     s_img: sum-g7821_s.jpg
     ml_img: sum-g7821_ml.jpg
+    xl_img: sum-g7821_xl.jpg
     description: Ring and Pinion Installation Kit, GM, 7.5 in./7.625 in., 10-Bolt,
       Kit
     overview_description: ''
@@ -1029,6 +1093,7 @@ parts:
     url: "/parts/dei-010106"
     s_img: dei-010106_s.jpg
     ml_img: dei-010106_ml.jpg
+    xl_img: dei-010106_xl.jpg
     description: Exhaust and Header Wrap, Fiberglass Composite, Natural, 2 in. Wide
       x 15 ft., Each
     overview_description: Use DEI asbestos-free exhaust wrap as a heat barrier to keep
@@ -1044,6 +1109,7 @@ parts:
     url: "/parts/lok-tc-1000ht"
     s_img: lok-tc-1000ht_s.jpg
     ml_img: lok-tc-1000ht_ml.jpg
+    xl_img: lok-tc-1000ht_xl.jpg
     description: Throttle Cable, Hi-Tech, Braided Stainless Steel, 24 in. Long, Universal,
       Each
     overview_description: Lokar Hi-Tech throttle cables are the perfect solution for
@@ -1065,6 +1131,7 @@ parts:
     url: "/parts/sum-890342"
     s_img: sum-890342_s.jpg
     ml_img: sum-890342_ml.jpg
+    xl_img: sum-890342_xl.jpg
     description: Wire Sleeve, Braided, 3/4 in. Diameter, 6 ft. Length, Black, Each
     overview_description: Tuck your wires into Summit Racing® braided wire wraps and
       you'll both be happy. Your wires will be protected from abrasion and damage, and
@@ -1082,6 +1149,7 @@ parts:
     url: "/parts/wvi-3000-15-1"
     s_img: wvi-3000-15-1_s.jpg
     ml_img: wvi-3000-15-1_ml.jpg
+    xl_img: wvi-3000-15-1_xl.jpg
     description: Wheel Trim Ring, Snap-On, 15 in. Diameter, Polished, Stainless Steel,
       Fits 6 in. Wide Stock Steel Rallye Wheels
     overview_description: Don't settle for second-rate wheel accessories for your musclecar.
@@ -1096,6 +1164,7 @@ parts:
     url: "/parts/knn-62-1015"
     s_img: knn-62-1015_s.jpg
     ml_img: knn-62-1015_ml.jpg
+    xl_img: knn-62-1015_xl.jpg
     description: Valve Cover Breather, Crankcase Vent, Push-In, Round, Steel, Chrome,
       1/2 in. Nipple, K&N Logo, Each
     overview_description: K&N crankcase vent filters were designed for racing, but
@@ -1115,6 +1184,7 @@ parts:
     url: "/parts/tay-38580"
     s_img: tay-38580_s.jpg
     ml_img: tay-38580_ml.jpg
+    xl_img: tay-38580_xl.jpg
     description: Convoluted Tubing, Plastic, Black, 1/2 in. Diameter, 7 ft. Long, Each
     overview_description: Taylor's convoluted tubing is made from flexible plastic
       and is designed to protect and add detail to your wiring. Slit for easy wire insertion
@@ -1129,6 +1199,7 @@ parts:
     url: "/parts/wvi-1008-1"
     s_img: wvi-1008-1_s.jpg
     ml_img: wvi-1008-1_ml.jpg
+    xl_img: wvi-1008-1_xl.jpg
     description: Center Cap, Steel, Chrome, Snap-In, Smoothy Style, Baby Moon Design,
       17-18 in. Wheels, Each
     overview_description: Wheel Vintiques center caps are available in over a hundred
@@ -1146,6 +1217,7 @@ parts:
     url: "/parts/arp-245-0901"
     s_img: arp-245-0901_s.jpg
     ml_img: arp-245-0901_ml.jpg
+    xl_img: arp-245-0901_xl.jpg
     description: Bellhousing Stud Kit, 3/8 in. Thread, Chromoly, Black Oxide, Top Fuel,
       Chevy, Chrysler KB Hemi, Kit
     overview_description: ARP bellhousing studs are designed with a bullet nose to
@@ -1161,6 +1233,7 @@ parts:
     url: "/parts/bmm-20412"
     s_img: bmm-20412_s.jpg
     ml_img: bmm-20412_ml.jpg
+    xl_img: bmm-20412_xl.jpg
     description: Torque Converter, Holeshot, 2,400 rpm Stall, Chevy, TH400/TH375/TH350/TH375B,
       Each
     overview_description: A higher-than-stock stall speed as delivered by these B&M
@@ -1179,6 +1252,7 @@ parts:
     url: "/parts/arp-100-1412"
     s_img: arp-100-1412_s.jpg
     ml_img: arp-100-1412_ml.jpg
+    xl_img: arp-100-1412_xl.jpg
     description: Header Studs, Hex Nuts, Custom 450, Black Oxide, Chevy Small Block,
       Set of 12
     overview_description: ARP manufactures a variety of header stud kits to facilitate
@@ -1195,6 +1269,7 @@ parts:
     url: "/parts/knn-66-3040"
     s_img: knn-66-3040_s.jpg
     ml_img: knn-66-3040_ml.jpg
+    xl_img: knn-66-3040_xl.jpg
     description: Air Filter Assembly, X-Stream, 14 in. Diameter, Round, Ribbed Design,
       3 in. Filter Height, Each
     overview_description: Adding more cfm of airflow through your carburetor is as
@@ -1212,6 +1287,7 @@ parts:
     url: "/parts/ssb-a28136"
     s_img: ssb-a28136_s.jpg
     ml_img: ssb-a28136_ml.jpg
+    xl_img: ssb-a28136_xl.jpg
     description: Master Cylinder, Cast Iron/Steel, Natural, with 7 in. Booster, 1.125
       in. Bore, Chevy, Kit
     overview_description: These Stainless Steel Brakes master cylinder and booster
@@ -1226,6 +1302,7 @@ parts:
     url: "/parts/sum-220641"
     s_img: sum-220641_s.jpg
     ml_img: sum-220641_ml.jpg
+    xl_img: sum-220641_xl.jpg
     description: Fitting, Coupler, Straight, Female -6 AN to Female -6 AN, Aluminum,
       Blue, Each
     overview_description: Our Summit® couplers connect multiple sizes of female or
@@ -1240,6 +1317,7 @@ parts:
     url: "/parts/msd-31359"
     s_img: msd-31359_s.jpg
     ml_img: msd-31359_ml.jpg
+    xl_img: msd-31359_xl.jpg
     description: Spark Plug Wires, Super Conductor, Spiral Core, 8.5mm, Red, 90 Degree
       Boots, Chevy, GMC, V8, Set
     overview_description: MSD 8.5mm Super Conductor spark plug wire sets feature a
@@ -1264,6 +1342,7 @@ parts:
     url: "/parts/sum-220712"
     s_img: sum-220712_s.jpg
     ml_img: sum-220712_ml.jpg
+    xl_img: sum-220712_xl.jpg
     description: Fitting, Hose End, 90 Degree, -8 AN Hose Barb to Female -8 AN, Aluminum,
       Red/Blue Anodized, Each
     overview_description: Our Summit® Twist-Tite swivel hose ends are some of the easiest
@@ -1279,6 +1358,7 @@ parts:
     url: "/parts/rus-610020"
     s_img: rus-610020_s.jpg
     ml_img: rus-610020_ml.jpg
+    xl_img: rus-610020_xl.jpg
     description: Fitting, Hose End, Full Flow, Straight, -6 AN Hose to Female -6 AN,
       Aluminum, Red/Blue, Each
     overview_description: Since 1975, Russell Full Flow hose ends have been the choice
@@ -1295,6 +1375,7 @@ parts:
     url: "/parts/edl-1411"
     s_img: edl-1411_s.jpg
     ml_img: edl-1411_ml.jpg
+    xl_img: edl-1411_xl.jpg
     description: Carburetor, Performer, 750 cfm, 4-Barrel, Square Bore, Electric Choke,
       Single Inlet, Silver, Each
     overview_description: Edelbrock's Performer carburetors feature two-piece, all-aluminum
@@ -1318,6 +1399,7 @@ parts:
     url: "/parts/sum-g1422"
     s_img: sum-g1422_s.jpg
     ml_img: sum-g1422_ml.jpg
+    xl_img: sum-g1422_xl.jpg
     description: Carburetor Studs, Steel, Zinc Plated, 5/16-18/24 in. x 2.225 in. Long,
       Kit
     overview_description: When replacing your carburetor, make sure to install new
@@ -1332,6 +1414,7 @@ parts:
     url: "/parts/dei-010301"
     s_img: dei-010301_s.jpg
     ml_img: dei-010301_ml.jpg
+    xl_img: dei-010301_xl.jpg
     description: Exhaust Wrap Coating, High-Temperature, Black, 12 oz. Can, Each
     overview_description: Apply Design Engineering's HT silicone coating directly to
       your exhaust manifold, pipe, and muffler surfaces to protect them against acid
@@ -1346,6 +1429,7 @@ parts:
     url: "/parts/hly-12-327-11/"
     s_img: hly-12-327-11_s.jpg
     ml_img: hly-12-327-11_ml.jpg
+    xl_img: hly-12-327-11_xl.jpg
     description: Fuel Pump, Mechanical, Chevy, Small Block, Each
     overview_description: Holley Street Performance mechanical fuel pumps are designed
       to work with stock or mildly modified engines. Their body castings can be rotated
@@ -1362,6 +1446,7 @@ parts:
     url: "/parts/hok-2451hkr"
     s_img: hok-2451hkr_s.jpg
     ml_img: hok-2451hkr_ml.jpg
+    xl_img: hok-2451hkr_xl.jpg
     description: Headers, Competition, Full-Length, Steel, Painted, Buick, Chevy, Oldsmobile,
       Pontiac, Chevy Small Block, Pair
     overview_description: If you're looking for headers designed for maximum street
@@ -1383,6 +1468,7 @@ parts:
     url: "/parts/sum-640025"
     s_img: sum-640025_s.jpg
     ml_img: sum-640025_ml.jpg
+    xl_img: sum-640025_xl.jpg
     description: Exhaust Tubing, Straight, 2 1/2 in. Diameter, 4 ft. Length, 16-Gauge,
       Steel, Aluminized, Each
     overview_description: These Summit® exhaust tubing is made from aluminum coated
@@ -1398,6 +1484,7 @@ parts:
     url: "/parts/mpe-59956"
     s_img: mpe-59956_s.jpg
     ml_img: mpe-59956_ml.jpg
+    xl_img: mpe-59956_xl.jpg
     description: Catalytic Converter, Metallic-Cat, 59950, Universal, 2.50 in. Inlet/Outlet,
       Each
     overview_description: MagnaFlow universal spun catalytic converters utilize the
@@ -1418,6 +1505,7 @@ parts:
     url: "/parts/grt-1130"
     s_img: grt-1130_s.jpg
     ml_img: grt-1130_ml.jpg
+    xl_img: grt-1130_xl.jpg
     description: Steering Wheel, Collector's Edition, Aluminum, Polished, Black, 3-Spoke,
       13.750 in. Diameter, 5-Bolt, Each
     overview_description: The ultimate look for any street rod or truck! Top-of-the-line
@@ -1434,6 +1522,7 @@ parts:
     url: "/parts/mtt-6652"
     s_img: mtt-6652_s.jpg
     ml_img: mtt-6652_ml.jpg
+    xl_img: mtt-6652_xl.jpg
     description: Tire, Sportsman S/R, LT 26x6R15, Radial, Blackwall, Each
     overview_description: Aggressive tires for your street rod or musclecar! Mickey
       Thompson Sportsman S/R tires are a new spin on the famous Mickey Thompson Sportsman
@@ -1456,6 +1545,7 @@ parts:
     url: "/parts/cee-3061/"
     s_img: cee-3061_s.jpg
     ml_img: cee-3061_ml.jpg
+    xl_img: cee-3061_xl.jpg
     description: Crossmember, Transmission, Steel, Natural, Universal, Each
     overview_description: Competition Engineering has made it easy to connect a fabricated
       rear frame to the rest of the chassis. These dropped crossmembers are made of
@@ -1470,6 +1560,7 @@ parts:
     url: "/parts/tay-38780"
     s_img: tay-38780_s.jpg
     ml_img: tay-38780_ml.jpg
+    xl_img: tay-38780_xl.jpg
     description: Convoluted Tubing, Plastic, Black, 3/4 in. Diameter, 5 ft. Long, Each
     overview_description: Taylor's convoluted tubing is made from flexible plastic
       and is designed to protect and add detail to your wiring. Slit for easy wire insertion
@@ -1484,6 +1575,7 @@ parts:
     url: "/parts/prf-30103"
     s_img: prf-30103_s.jpg
     ml_img: prf-30103_ml.jpg
+    xl_img: prf-30103_xl.jpg
     description: Fan Control, Thermostatic, 185 Degrees On/175 Degrees Off, Kit
     overview_description: These FAN-THOM II electric fan relay kits come with a threaded
       thermostat that screws into the engine block or intake manifold for a clean and
@@ -1501,6 +1593,7 @@ parts:
     url: "/parts/the-14610"
     s_img: the-14610_s.jpg
     ml_img: the-14610_ml.jpg
+    xl_img: the-14610_xl.jpg
     description: Control Mat, Suppressor, Heat/Sound, 24 in. x 36 in., 1/16 in. Thick,
       Self-Adhesive, Each
     overview_description: Thermo-Tec Acoustical & Heat Control Mats are ideal for keeping

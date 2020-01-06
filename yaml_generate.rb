@@ -48,6 +48,7 @@ def gen
       url: url, 
       s_img: "#{sku.downcase}_s.jpg",
       ml_img: "#{sku.downcase}_ml.jpg",
+      xl_img: "#{sku.downcase}_xl.jpg",
       description: description, 
       overview_description: overview_description.gsub("\n","").gsub("Warranty","").strip 
     }

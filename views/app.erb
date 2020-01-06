@@ -12,6 +12,8 @@
   <link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'>
   <!--Import materialize.css-->
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
+  <!-- Custom -->
+  <link href='css/app.css' rel='stylesheet' type='text/css' />
   
   <!--Import jQuery Library-->
   <script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
@@ -19,14 +21,14 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js'></script>
 </head>
 <body>
-  <img src='img/cadillac_emblem.jpg' style='position:absolute;left:85px;height:75px;z-index:1' />
-  <img src='img/frankenstein.png' style='position:absolute;left:95px;height:55px;top:115px;z-index:1' />
+  <img src='img/cadillac_emblem.jpg' style='position:absolute;left:85px;height:75px;top:45px;z-index:1' />
+  <img src='img/frankenstein.png' style='position:absolute;left:95px;height:55px;top:135px;z-index:1' />
   <div class='jumbotron jumbotron-fluid'>
     <div class='container'>
-      <h1 class='display-4'>1992 Cadillac Eldorado</h1>
-      <span><h4 style='color:lightgrey;'>aka FRANKENSTEIN</h4></span>
-      <a href='/print' class='waves-effect waves-light btn btn-small blue lighten-3'><i class='material-icons left'>print</i>PRINT</a>
-      <br>
+      <h1 style='margin-bottom:0;'>
+        <img src='img/header.png' style='height:6.5rem;'>
+      </h1>
+      <span><h4 style='color:lightgrey;margin:0 0 .912rem 0;'>aka FRANKENSTEIN</h4></span>
       <p class='container' style='margin:revert;'>
         <b>(Project car for sale)</b> GM ZZ4 crate engine, Edelbrock T50 carb, HI torque starter, Headman headers, B&M 2400 RPM stall converter,
         TCI TH400 trans street fighter, B&M shifter, Richmond 3:73's, Auburn limited slip diff., Mosler axles, 
@@ -34,8 +36,8 @@
         All sits on air ride tech air bags and shocks. 
       </p>
       <b>NOTES</b>
-      <ul>
-        <li>Car is to be sold as <b>whole</b>, individual part purchase is not available</b></li>
+      <ul style='margin-top:0;'>
+        <li>Car is to be sold as a <b>whole</b>, individual part purchase is not an option</b></li>
         <li>Please refer to the previous website to contact owner</li>
         <li>All parts purchased by Summit Racing®, and have receipts on hand</li>
         <li>Refer SKU numbers to <a href='https://www.summitracing.com'> https://www.summitracing.com</a> for additional part information</li>
@@ -43,15 +45,32 @@
     </div>
     <br>
 
-  <div class='container'>
-    <img src='/img/1992cadillac_eldorado1.jpg' style='max-width:10em;'>
-    <img src='/img/1992cadillac_eldorado2.jpg' style='max-width:10em;'>
-    <img src='/img/1992cadillac_eldorado3.jpg' style='max-width:10em;'>
-    <img src='/img/1992cadillac_eldorado4.jpg' style='max-width:10em;'>
-    <img src='/img/1992cadillac_eldorado5.jpg' style='max-width:10em;'>
-  </div>
-
+    <div class='container'>
+      <img  class='modal-trigger' href='#modal1' src='/img/1992cadillac_eldorado1.jpg' style='max-width:10em;cursor:pointer;'>
+      <div id='modal1' class='modal'>
+        <img class='responsive-img' src='/img/1992cadillac_eldorado1.jpg'>
+      </div>
+      <img  class='modal-trigger' href='#modal2' src='/img/1992cadillac_eldorado2.jpg' style='max-width:10em;cursor:pointer;'>
+      <div id='modal2' class='modal'>
+        <img class='responsive-img' src='/img/1992cadillac_eldorado2.jpg'>
+      </div>
+      <img  class='modal-trigger' href='#modal3' src='/img/1992cadillac_eldorado3.jpg' style='max-width:10em;cursor:pointer;'>
+      <div id='modal3' class='modal'>
+        <img class='responsive-img' src='/img/1992cadillac_eldorado3.jpg'>
+      </div>
+      <img  class='modal-trigger' href='#modal4' src='/img/1992cadillac_eldorado4.jpg' style='max-width:10em;cursor:pointer;'>
+      <div id='modal4' class='modal'>
+        <img class='responsive-img' src='/img/1992cadillac_eldorado4.jpg'>
+      </div>
+      <img  class='modal-trigger' href='#modal5' src='/img/1992cadillac_eldorado5.jpg' style='max-width:10em;cursor:pointer;'>
+      <div id='modal5' class='modal'>
+        <img class='responsive-img' src='/img/1992cadillac_eldorado5.jpg'>
+      </div>
+    </div>
+    <br>
+  
 	<div class='row' style='padding-top:25px;'>
+    <a href='/print' class='waves-effect waves-light btn btn-small blue lighten-3' style='display:table;margin-left:1rem;'><i class='material-icons left'>print</i>VIEW PRINT</a>
     <div class='col s12 m9 l10'>
       <% @departments.each do |department, entries| %>
       <div id=<%= department %> class='section scrollspy'>
@@ -72,7 +91,12 @@
             <% entries.each do |entry| %>
             <tbody>
               <tr>
-                <td><img src='/img/<%= entry['ml_img'] %>' style='max-height:36px;max-width:36px;'></td>
+                <td>
+                  <img class='modal-trigger' href='#modal-<%= entry['sku'] %>' src='/img/<%= entry['ml_img'] %>' style='max-height:36px;max-width:36px;cursor:pointer;'>
+                  <div id='modal-<%= entry['sku'] %>' class='modal' style='text-align:center;'>
+                    <img class='responsive-img' src='/img/<%= entry['xl_img'] %>'>
+                  </div>
+                </td>
                 <td style='font-size:10px;'><%= entry['title'] %></td>
                 <td style='font-size:10px;'><%= entry['sku'] %></td>
                 <td style='font-size:10px;'><%= entry['category'] %></td>
@@ -107,6 +131,7 @@
 <script type='text/javascript'>
 	$(document).ready(function(){
 	  $('.scrollspy').scrollSpy();
+    $('.modal').modal();
   });
 </script>
 </body>
